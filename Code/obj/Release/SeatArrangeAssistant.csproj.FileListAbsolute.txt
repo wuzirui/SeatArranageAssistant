@@ -1,0 +1,17 @@
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\bin\Release\SeatArrangeAssistant.exe.config
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\bin\Release\SeatArrangeAssistant.exe
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\bin\Release\SeatArrangeAssistant.pdb
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\MainWindow.g.cs
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\seat.g.cs
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\App.g.cs
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant_MarkupCompile.cache
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant_MarkupCompile.lref
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\MainWindow.baml
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\seat.baml
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant.g.resources
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant.Properties.Resources.resources
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant.csproj.GenerateResource.Cache
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant.csproj.CoreCompileInputs.cache
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant.exe
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant.pdb
+H:\Documents\Projects\SeatArrangeAssistant\SeatArrangeAssistant\obj\Release\SeatArrangeAssistant.csprojResolveAssemblyReference.cache

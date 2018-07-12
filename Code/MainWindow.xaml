@@ -1,0 +1,26 @@
+﻿<Window x:Class="SeatArrangeAssistant.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SeatArrangeAssistant"
+        mc:Ignorable="d"
+        Title="SeatArrangeAssistant Version 1.4.1" Height="390.183" Width="1212.785">
+    <Grid>
+        <Grid x:Name="Board" Margin="10,10,295,10" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+        <GroupBox Header="ToolBox" HorizontalAlignment="Right" Height="280" Margin="0,10,10,0" VerticalAlignment="Top" Width="280">
+            <Grid>
+                <Button x:Name="init" Content="Initialize" HorizontalAlignment="Left" Margin="118,11,0,0" VerticalAlignment="Top" Width="65" Height="24" Click="init_Click" RenderTransformOrigin="-0.321,0.375"/>
+                <TextBox x:Name="RowBox" HorizontalAlignment="Left" Height="23" Margin="64,11,0,0" TextWrapping="Wrap" Text="6" VerticalAlignment="Top" Width="49" ToolTip="Row Number" RenderTransformOrigin="-0.437,1.696" />
+                <TextBox x:Name="ColBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="6" VerticalAlignment="Top" Width="49" ToolTip="Colum Number"/>
+                <Button Content="设置空位" HorizontalAlignment="Left" Margin="188,11,0,0" VerticalAlignment="Top" Width="70" Height="23" IsEnabled="False"/>
+                <Button Content="对调位置" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="103" Click="Button_Click_1"/>
+                <CheckBox x:Name="effect" Content="保留特效" HorizontalAlignment="Left" Margin="192,53,0,0" VerticalAlignment="Top" IsChecked="True"/>
+                <Slider x:Name="Speed" HorizontalAlignment="Left" Margin="118,50,0,0" VerticalAlignment="Top" Width="74" AutoToolTipPlacement="TopLeft" ToolTip="Speed" Maximum="1000" Minimum="50" Value="200"/>
+                <Button x:Name="save" Content="保存" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="98" Height="20" Click="save_Click"/>
+                <Button Content="另存为" HorizontalAlignment="Left" Margin="118,91,0,0" VerticalAlignment="Top" Width="65" Click="Button_Click_2"/>
+            </Grid>
+        </GroupBox>
+        <Button Content="Generate" HorizontalAlignment="Right" Margin="0,0,10,10" Width="280" Height="54" VerticalAlignment="Bottom" Click="Button_Click"/>
+    </Grid>
+</Window>
